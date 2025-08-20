@@ -1,1 +1,1 @@
-# Ci-ncia-da-Computa-o---Puc-Minas
+## Ciência da Computação - Puc Minas
