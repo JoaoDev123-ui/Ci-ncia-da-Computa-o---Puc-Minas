@@ -1,0 +1,89 @@
+─────────────────────────────────
+Nome: João Pedro Sales de Deus
+Matrícula: 903114
+Professor: Theldo Cruz Franqueira
+─────────────────────────────────
+
+01.) Determinar os complementos para os valores
+     e as quantidades de bits indicadas:
+
+Dica: Ajustar primeiro o tamanho antes de calcular
+      o complemento (C1,n ou C2,n).
+──────────────────────────────────────────────────
+
+a) C1,6 (1001₂) = X₂
+
+1. Ajustar para 6 bits:
+   1001₂ → 001001₂
+
+2. Inverter os bits (C1):
+   001001₂ → 110110₂
+
+Resultado:  
+C1,6 (1001₂) = 110110₂
+
+
+b) C1,8 (1101₂) = X₂
+
+1. Ajustar para 8 bits:
+   1101₂ → 00001101₂
+
+2. Inverter os bits (C1):
+   00001101₂ → 11110010₂
+
+Resultado:  
+C1,8 (1101₂) = 11110010₂
+
+
+c) C2,6 (101011₂) = X₂
+
+1. Ajustar para 6 bits:
+   101011₂ → 101011₂  (já tem 6 bits)
+
+2. Inverter os bits (C1):
+   101011₂ → 010100₂
+
+3. Somar +1 (C2):
+   010100₂  
++      1  
+─────────  
+   010101₂
+
+Resultado:  
+C2,6 (101011₂) = 010101₂
+
+
+d) C2,7 (101101₂) = X₂
+
+1. Ajustar para 7 bits:
+   101101₂ → 0101101₂
+
+2. Inverter os bits (C1):
+   0101101₂ → 1010010₂
+
+3. Somar +1 (C2):
+   1010010₂  
++       1  
+─────────  
+   1010011₂
+
+Resultado:  
+C2,7 (101101₂) = 1010011₂
+
+
+e) C2,8 (110010₂) = X₂
+
+1. Ajustar para 8 bits:
+   110010₂ → 00110010₂
+
+2. Inverter os bits (C1):
+   00110010₂ → 11001101₂
+
+3. Somar +1 (C2):
+   11001101₂  
++        1  
+──────────  
+   11001110₂
+
+Resultado:  
+C2,8 (110010₂) = 11001110₂

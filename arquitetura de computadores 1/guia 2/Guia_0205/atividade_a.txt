@@ -1,0 +1,88 @@
+- Nome: João Pedro Sales de Deus
+- Matrícula: 903114
+- Professor: Theldo Cruz Franqueira
+
+05.) Fazer as operações indicadas:
+
+a) 101,011₂ + 10,01₂ = X₂
+
+1. Alinhar casas decimais:
+   101,011
+
+* 10,010
+
+2. Somar bit a bit:
+   101,011
+   +010,010
+   --------
+
+   111,101
+
+Resultado: 111,101₂
+
+---
+
+b) 1000,01₂ - 10,011₂
+
+1. Alinhar casas decimais:
+   1000,010
+
+* 0010,011
+
+2. Subtração bit a bit:
+   1000,010
+   -0010,011
+   ---------
+
+   0101,111
+
+Resultado: 101,111₂
+
+---
+
+c) 101,110₂ \* 10,011₂
+
+1. Converter para decimal:
+   101,110₂ = 5,75
+   10,011₂ = 2,375
+
+2. Multiplicação decimal:
+   5,75 \* 2,375 = 13,65625
+
+3. Converter de volta para binário:
+   Parte inteira: 13 → 1101₂
+   Parte fracionária: 0,65625 → 10101₂
+
+Resultado: 1101,10101₂
+
+---
+
+d) 10110,01₂ ÷ 11,101₂
+
+1. Converter para decimal:
+   10110,01₂ = 22,25
+   11,101₂ = 3,625
+
+2. Divisão decimal:
+   22,25 ÷ 3,625 ≈ 6,137931...
+
+3. Converter para binário:
+   Parte inteira: 6 → 110₂
+   Parte fracionária: 0,137931... → 0010001₂ (aprox.)
+
+Resultado: 110,0010001₂
+
+---
+
+e) 1100101₂ % 1101₂
+
+1. Converter para decimal:
+   1100101₂ = 101
+   1101₂ = 13
+
+2. Resto da divisão inteira:
+   101 ÷ 13 = 7 resto 10
+
+3. Converter o resto 10 para binário: 1010₂
+
+Resultado: 1010₂

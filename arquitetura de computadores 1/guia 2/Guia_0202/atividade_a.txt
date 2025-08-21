@@ -1,0 +1,97 @@
+- Nome: João Pedro Sales de Deus
+- Matrícula: 903114
+- Professor: Theldo Cruz Franqueira
+
+02.) Fazer as conversões entre as bases indicadas:
+
+a) 0,875000₁₀ = X₂
+
+ Operação    Produto    P.Inteira    P.fracionária    binário
+ 0,875 x 2     1,75          1            0,75          0,1   (primeiro) │
+ 0,750 x 2     1,50          1            0,50          0,11		 │
+ 0,500 x 2     1,00          1            0,00          0,111 (último)   │ 
+									 ▼
+Resultado: 0,111₂
+
+--------------------------------------------------------------------------
+
+b) 1,250000₁₀ = X₂
+
+- Parte Inteira:
+
+ Operação    Quociente    Resto
+ 1  ÷  2         0          1
+
+Resultado: 1₂
+
+- Parte fracionária:
+
+ Operação    Produto    P.Inteira    P.fracionária    binário
+ 0,250 x 2    1,50          0             0,50          0,0   (primeiro) │
+ 0,500 x 2    1,00          1             0,00          0,01  (último)	 │
+									 ▼
+Resultado: 1,01₂
+
+--------------------------------------------------------------------------
+
+c) 3,750000₁₀ = X₂
+
+- Parte Inteira:
+
+ Operação    Quociente    Resto
+ 3  ÷  2         1          1
+ 1  ÷  2         0          1
+
+Resultado: 11₂
+
+- Parte fracionária:
+
+ Operação    Produto    P.Inteira    P.fracionária    binário
+ 0,750 x 2    1,50          1             0,50          0,1   (primeiro) │
+ 0,500 x 2    1,00          1             0,00          0,11  (último)	 │
+									 ▼
+Resultado: 11,11₂
+
+--------------------------------------------------------------------------
+
+d) 4,125000₁₀ = X₂
+
+- Parte Inteira:
+
+ Operação    Quociente    Resto
+ 4  ÷  2         2          0
+ 2  ÷  2         1          0
+ 1  ÷  2         0          1 
+
+Resultado: 100₂
+
+- Parte fracionária:
+
+ Operação    Produto    P.Inteira    P.fracionária    binário
+ 0,125 x 2    0,25          0             0,25          0,0   (primeiro) │
+ 0,250 x 2    0,50          0             0,50          0,00	         │
+ 0,500 x 2    1,00          1             0,00          0,001 (último)	 │
+									 ▼
+Resultado: 100,001₂
+
+--------------------------------------------------------------------------
+
+e) 7,625000₁₀ = X₂
+
+- Parte Inteira:
+
+ Operação    Quociente    Resto
+ 7  ÷  2         3          1
+ 3  ÷  2         1          1
+ 1  ÷  2         0          1 
+
+Resultado: 111₂
+
+- Parte fracionária:
+
+ Operação    Produto    P.Inteira    P.fracionária    binário
+ 0,625 x 2    1,25          1             0,25          0,1   (primeiro) │
+ 0,250 x 2    0,50          0             0,50          0,10	         │
+ 0,500 x 2    1,00          1             0,00          0,101 (último)	 │
+									 ▼
+Resultado: 111,101₂

@@ -1,0 +1,76 @@
+- Nome: João Pedro Sales de Deus
+- Matrícula: 903114
+- Professor: Theldo Cruz Franqueira
+
+03.) Fazer as conversões de base entre as bases indicadas:
+	DICAS: Para uma mesma base ou usar agrupamentos ou desagrupamentos.
+	Para conferir, compare os valores decimais equivalentes.
+	Completar com zeros, se necessário
+
+a) 0,010110₂ = X₄
+
+- Parte Inteira: 0 → agrupe os bits em pares: 00 → 0
+- Parte Fracionária: 010110 → agrupe os bits em pares: [01] [01] [10]
+
+ Binário          Quaternário
+   00                  0
+   01                  1
+   01                  1
+   10                  2
+
+Resultado = 0,112₄
+
+-------------------------------------------------------------------------------
+
+b) 0,100111₂ = X₈
+
+- Parte Inteira: 0 → agrupe os bits em trios: 000 → 0
+- Parte Fracionária: 100111 → agrupe os bits em trios: [100] [111]
+
+ Binário             Octal
+   000                 0
+   100                 4
+   111                 7
+
+Resultado = 0,47₈
+
+-------------------------------------------------------------------------------
+
+c) 0,101001₂ = X₁₆
+
+- Parte Inteira: 0 → agrupe os bits em quatro: 0000 → 0
+- Parte Fracionária: 101001 → agrupe os bits em quatro: [1010] [0100] (completamos com 0 à direita para completar o último bloco)
+
+ Binário          Hexadecimal
+  0000                 0
+  1010                 A
+  0100                 4
+
+Resultado = 0,A4₁₆
+
+-------------------------------------------------------------------------------
+
+d) 1,110101₂ = X₈
+
+- Parte inteira: 1 → complete com zeros à esquerda → 001
+- Parte Fracionária: 110101 → agrupe os bits em trios: [110] [101]
+ 
+ Binário             Octal
+  001                  1
+  110                  6
+  101                  5
+
+Resultado = 1,165₈
+
+-------------------------------------------------------------------------------
+
+e) 1011,1011₂ = X₁₆
+
+- Parte inteira: 1011 → agrupe os bits em quatro → 1011
+- Parte Fracionária: 1011 → agrupe os bits em quatro: [1011]
+
+ Binário            Hexadecimal
+  1011                  B
+  1011                  B
+
+Resultado = B,B₁₆
