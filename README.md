@@ -6,10 +6,6 @@
   ### **Pontifícia Universidade Católica de Minas Gerais**
   
   *Documentando cada descoberta, cada linha de código, cada momento de aprendizado*
-  
-  [![GitHub followers](https://img.shields.io/github/followers/SEU-USER?style=social)](https://github.com/JoaoDev123-ui)
-  [![GitHub stars](https://img.shields.io/github/stars/SEU-USER?style=social)](https://github.com/JoaoDev123-ui)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 </div>
 
@@ -66,12 +62,12 @@ Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo 
 
 | Disciplinas                              | Status       | Professores |
 |------------------------------------------|----------------- |-------------|
-| **Algoritmo e Estrutura de Dados 3**     | 🔴 Não iniciado |
-| **Arquitetura de Computadores 2**                            | 🔴 Não iniciado    |
-| **Banco de Dados**    | 🔴 Não iniciado    |
-| **Cálculo 2**| 🟡 Em Progresso    |
-| **Linguagens de Programação** | 🔴 Não iniciado  |
-| **Trabalho Interdisciplinar 3: Pesquisa Aplicada**              | 🔴 Não iniciado    |
+| Algoritmo e Estrutura de Dados 3     | 🔴 Não iniciado |
+| Arquitetura de Computadores 2                            | 🔴 Não iniciado    |
+| Banco de Dados    | 🔴 Não iniciado    |
+| Cálculo 2| 🟡 Em Progresso    |
+| Linguagens de Programação | 🔴 Não iniciado  |
+| Trabalho Interdisciplinar 3: Pesquisa Aplicada              | 🔴 Não iniciado    |
 
 </details>
 
