@@ -7,8 +7,8 @@
   
   *Documentando cada descoberta, cada linha de código, cada momento de aprendizado*
   
-  [![GitHub followers](https://img.shields.io/github/followers/SEU-USER?style=social)](https://github.com/SEU-USER)
-  [![GitHub stars](https://img.shields.io/github/stars/SEU-USER?style=social)](https://github.com/SEU-USER)
+  [![GitHub followers](https://img.shields.io/github/followers/SEU-USER?style=social)](https://github.com/JoaoDev123-ui)
+  [![GitHub stars](https://img.shields.io/github/stars/SEU-USER?style=social)](https://github.com/JoaoDev123-ui)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 </div>
