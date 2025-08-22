@@ -1,7 +1,7 @@
 # 🎓 Jornada Acadêmica em Ciência da Computação
 
 <div align="center">
-  <img src="imagens/images.png" alt="PUC Minas" width="250"/>
+  <img src="imagens/images.png" alt="PUC Minas" width="300"/>
   
   ### **Pontifícia Universidade Católica de Minas Gerais**
   
