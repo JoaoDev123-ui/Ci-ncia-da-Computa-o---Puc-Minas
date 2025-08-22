@@ -24,7 +24,7 @@ Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo 
 
 ### Grade curricular
 
-> **Legenda:** ✅ Concluído | 🟡 Em Progresso | 🔴 Não Iniciado
+> Legenda: ✅ Concluído | 🟡 Em Progresso | 🔴 Não Iniciado
 
 </div>
 
@@ -33,13 +33,13 @@ Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo 
 
 | Disciplinas                              | Status       | Professores |
 |------------------------------------------|----------------- |-------------|
-| Algoritmo e Estrutura de Dados 1     | 🟡 Em Progresso |
-| Cálculo 1                            | ✅ Concluído    |
-| Desenvolvimento de Interfaces Web    | ✅ Concluído    |
-| Laboratório de Iniciação à Computação| ✅ Concluído    |
-| Trabalho Interdisciplinar 1: Front-End | ✅ Concluído  |
-| Introdução à Computação             | ✅ Concluído    |
-| Filosofia: Razão e Modernidade       | ✅ Concluído    |
+| Algoritmo e Estrutura de Dados 1     | 🟡 Em Progresso | Felipe Domingos da Cunha
+| Cálculo 1                            | ✅ Concluído    | Carina Pinheiro Soares
+| Desenvolvimento de Interfaces Web    | ✅ Concluído    | Rommel Vieira Carneiro
+| Laboratório de Iniciação à Computação| ✅ Concluído    | João Paulo Aramuni
+| Trabalho Interdisciplinar 1: Front-End | ✅ Concluído  | Ilo Rivero
+| Introdução à Computação             | ✅ Concluído    | Carlos Alberto Marques Pietrobon
+| Filosofia: Razão e Modernidade       | ✅ Concluído    | Maria Dulce Reis
 
 </details>
 
@@ -49,8 +49,8 @@ Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo 
 | Disciplinas                              | Status       | Professores |
 |------------------------------------------|----------------- |-------------|
 | Algoritmo e Estrutura de Dados 2     | 🔴 Não iniciado |
-| Arquitetura de Computadores 1                            | 🟡 Em Progresso    |
-| Cultura Religiosa: Fênomeno Religioso    | 🟡 Em Progresso    |
+| Arquitetura de Computadores 1                            | 🟡 Em Progresso    | Theldo Cruz Franqueira
+| Cultura Religiosa: Fênomeno Religioso    | 🟡 Em Progresso    | Rodrigo Coppe Caldeira
 | Engenharia de Software| 🔴 Não iniciado    |
 | Trabalho Interdisciplinar 2: Back-End | 🔴 Não iniciado  |
 | Optativa 1              | 🔴 Não iniciado    |
@@ -65,7 +65,7 @@ Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo 
 | Algoritmo e Estrutura de Dados 3     | 🔴 Não iniciado |
 | Arquitetura de Computadores 2                            | 🔴 Não iniciado    |
 | Banco de Dados    | 🔴 Não iniciado    |
-| Cálculo 2| 🟡 Em Progresso    |
+| Cálculo 2| 🟡 Em Progresso    | Roney Rachide Nunes
 | Linguagens de Programação | 🔴 Não iniciado  |
 | Trabalho Interdisciplinar 3: Pesquisa Aplicada              | 🔴 Não iniciado    |
 
