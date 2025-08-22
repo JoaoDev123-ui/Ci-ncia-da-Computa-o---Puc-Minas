@@ -16,7 +16,7 @@
 ---
 <div align="center">
 
-### **📚 Sobre este Repositório**
+### 📚 Sobre este Repositório
 
 Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo o conhecimento adquirido durante o curso de **Ciência da Computação** na PUC Minas. Aqui você encontrará desde os primeiros "Hello World" até projetos mais complexos, sempre com o objetivo de documentar o processo de aprendizado.
 
@@ -24,9 +24,13 @@ Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo 
 
 ---
 
-### **Grade curricular**
+<div align="center">
+
+### Grade curricular
 
 > **Legenda:** ✅ Concluído | 🟡 Em Progresso | 🔴 Não Iniciado
+
+</div>
 
 <details>
 <summary>1️⃣ Primeiro Período</summary>
