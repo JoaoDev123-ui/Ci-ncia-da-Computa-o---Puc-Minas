@@ -160,4 +160,7 @@ Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo 
 ![Disciplinas Concluídas](https://img.shields.io/badge/Concluídas-7-brightgreen?style=for-the-badge)
 ![Em Andamento](https://img.shields.io/badge/Em%20Andamento-3-yellow?style=for-the-badge)
 
+## 👨‍💻 Autor
+
+`João Pedro Sales de Deus`
 </div>
