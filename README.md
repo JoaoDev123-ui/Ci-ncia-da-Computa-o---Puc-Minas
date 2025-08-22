@@ -1,73 +1,163 @@
 # 🎓 Jornada Acadêmica em Ciência da Computação
 
 <div align="center">
-  <img src="imagens/images.png" alt="PUC Minas" width="200"/>
+  <img src="imagens/images.png" alt="PUC Minas" width="250"/>
   
-  **Pontifícia Universidade Católica de Minas Gerais**
+  ### **Pontifícia Universidade Católica de Minas Gerais**
   
   *Documentando cada descoberta, cada linha de código, cada momento de aprendizado*
+  
+  [![GitHub followers](https://img.shields.io/github/followers/SEU-USER?style=social)](https://github.com/SEU-USER)
+  [![GitHub stars](https://img.shields.io/github/stars/SEU-USER?style=social)](https://github.com/SEU-USER)
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+</div>
+
+---
+<div align="center">
+
+### **📚 Sobre este Repositório**
+
+> Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo o conhecimento adquirido durante o curso de **Ciência da Computação** na PUC Minas. Aqui você encontrará desde os primeiros "Hello World" até projetos mais complexos, sempre com o objetivo de documentar o processo de aprendizado.
+
 </div>
 
 ---
 
-## 📚 Sobre este Repositório
+### **Grade curricular**
 
-Bem-vindo(a) à minha jornada acadêmica! Este espaço é onde compartilho todo o conhecimento adquirido durante o curso de **Ciência da Computação** na PUC Minas. Aqui você encontrará desde os primeiros "Hello World" até projetos mais complexos, sempre com o objetivo de documentar o processo de aprendizado.
-
-## 🚀 Projetos e Estudos
-
-### 📈 Status Geral
-![Projetos Concluídos](https://img.shields.io/badge/Concluídos-1-brightgreen)
-![Em Desenvolvimento](https://img.shields.io/badge/Em%20Desenvolvimento-1-yellow)
-![Planejados](https://img.shields.io/badge/Planejados-1-blue)
-
-### 🗂️ Portfólio de Projetos
+> **Legenda:** ✅ Concluído | 🟡 Em Progresso | 🔴 Não Iniciado
 
 <details>
-<summary><b>📂 Primeiro Período</b></summary>
+<summary>1️⃣ Primeiro Período</summary>
 
-| 🎯 Projeto | 💻 Tech Stack | 📊 Status | 📅 Última Atualização | 🔗 Detalhes |
-|------------|---------------|-----------|----------------------|--------------|
-| **Projeto 1** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | 🟡 Em Progresso | 20/08/2025 | [Ver mais →](link-do-projeto) |
-| **Projeto 2** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ✅ Concluído | 18/08/2025 | [Ver mais →](link-do-projeto) |
-| **Projeto 3** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | 🔵 Planejamento | 15/08/2025 | [Ver mais →](link-do-projeto) |
+| Disciplinas                              | Status       | Professores |
+|------------------------------------------|----------------- |-------------|
+| Algoritmo e Estrutura de Dados 1     | 🟡 Em Progresso |
+| Cálculo 1                            | ✅ Concluído    |
+| Desenvolvimento de Interfaces Web    | ✅ Concluído    |
+| Laboratório de Iniciação à Computação| ✅ Concluído    |
+| Trabalho Interdisciplinar 1: Front-End | ✅ Concluído  |
+| Introdução à Computação             | ✅ Concluído    |
+| Filosofia: Razão e Modernidade       | ✅ Concluído    |
 
 </details>
 
+<details>
+<summary>2️⃣ Segundo Período</summary>
 
-## 🛠️ Tech Stack Atual
+| Disciplinas                              | Status       | Professores |
+|------------------------------------------|----------------- |-------------|
+| Algoritmo e Estrutura de Dados 2     | 🔴 Não iniciado |
+| Arquitetura de Computadores 1                            | 🟡 Em Progresso    |
+| Cultura Religiosa: Fênomeno Religioso    | 🟡 Em Progresso    |
+| Engenharia de Software| 🔴 Não iniciado    |
+| Trabalho Interdisciplinar 2: Back-End | 🔴 Não iniciado  |
+| Optativa 1              | 🔴 Não iniciado    |
 
-<div align="center">
+</details>
 
-### Linguagens
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<details>
+<summary>3️⃣ Terceiro Período</summary>
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Disciplinas                              | Status       | Professores |
+|------------------------------------------|----------------- |-------------|
+| **Algoritmo e Estrutura de Dados 3**     | 🔴 Não iniciado |
+| **Arquitetura de Computadores 2**                            | 🔴 Não iniciado    |
+| **Banco de Dados**    | 🔴 Não iniciado    |
+| **Cálculo 2**| 🟡 Em Progresso    |
+| **Linguagens de Programação** | 🔴 Não iniciado  |
+| **Trabalho Interdisciplinar 3: Pesquisa Aplicada**              | 🔴 Não iniciado    |
 
-</div>
+</details>
 
-## 🤝 Conecte-se Comigo
+<details>
+<summary>4️⃣ Quarto Período</summary>
 
-<div align="center">
+| Disciplinas                              | Status       | Professores |
+|------------------------------------------|----------------- |-------------|
+| **Estatística e Probabilidade**                             | 🔴 Não iniciado |
+| **Inteligência Artificial**                                 | 🔴 Não iniciado |
+| **Laboratório de Desenvolvimento para Dispositivos Móveis** | 🔴 Não iniciado |
+| **Modelagem e Avaliação de Desempenho**                     | 🔴 Não iniciado |
+| **Optativa II**                                             | 🔴 Não iniciado |
+| **Teoria dos Grafos e Computabilidade**                     | 🔴 Não iniciado |
+| **Trabalho Interdisciplinar IV: Aplicações Móveis**         | 🔴 Não iniciado |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](seu-github)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email)
+</details>
 
-</div>
+<details>
+<summary>5️⃣ Quinto Período</summary>
+
+| Disciplinas                              | Status       | Professores |
+|------------------------------------------|----------------- |-------------|
+| **Arquitetura de Computadores III**                      | 🔴 Não iniciado |
+| **Engenharia de Software II**                            | 🔴 Não iniciado |
+| **Optativa III**                                         | 🔴 Não iniciado |
+| **Projeto e Análise de Algoritmos**                      | 🔴 Não iniciado |
+| **Redes de Computadores I**                              | 🔴 Não iniciado |
+| **Sistemas Operacionais**                                | 🔴 Não iniciado |
+| **Trabalho Interdisciplinar V: Sistemas Computacionais** | 🔴 Não iniciado |
+
+</details>
+
+<details>
+<summary>6️⃣ Sexto Período</summary>
+
+| Disciplinas                              | Status       | Professores |
+|------------------------------------------|----------------- |-------------|
+| **Computação Distribuída**                                          | 🔴 Não iniciado |
+| **Computação Paralela**                                             | 🔴 Não iniciado |
+| **Cultura Religiosa: Pessoa e Sociedade**                           | 🔴 Não iniciado |
+| **Fundamentos Teóricos da Computação**                              | 🔴 Não iniciado |
+| **Geometria Analítica e Álgebra Linear**                            | 🔴 Não iniciado |
+| **Processamento e Análise de Imagens**                              | 🔴 Não iniciado |
+| **Trabalho Interdisciplinar VI: Sistemas Paralelos e Distribuídos** | 🔴 Não iniciado |
+
+</details>
+
+<details>
+<summary>7️⃣ Sétimo Período</summary>
+
+| Disciplinas                              | Status       | Professores |
+|------------------------------------------|----------------- |-------------|
+| **Compiladores**                     | 🔴 Não iniciado |
+| **Computação Gráfica**               | 🔴 Não iniciado |
+| **Filosofia: Antropologia e Ética**  | 🔴 Não iniciado |
+| **Redes de Computadores II**         | 🔴 Não iniciado |
+| **Tópicos em Computação I**          | 🔴 Não iniciado |
+| **Tópicos em Computação II**         | 🔴 Não iniciado |
+| **Trabalho de Conclusão de Curso I** | 🔴 Não iniciado |
+
+</details>
+
+<details>
+<summary>8️⃣ Oitavo Período</summary>
+
+| Disciplinas                              | Status       | Professores |
+|------------------------------------------|----------------- |-------------|
+| **Cibersegurança e Ethical Hacking**  | 🔴 Não iniciado |
+| **Computadores e Sociedade**          | 🔴 Não iniciado |
+| **Optativa IV**                       | 🔴 Não iniciado |
+| **Otimização de Sistemas**            | 🔴 Não iniciado |
+| **Segurança e Auditoria de Sistemas** | 🔴 Não iniciado |
+| **Tópicos em Computação III**         | 🔴 Não iniciado |
+| **Tópicos em Computação IV**          | 🔴 Não iniciado |
+| **Trabalho de Conclusão de Curso II** | 🔴 Não iniciado |
+
+</details>
 
 ---
 
+## 📊 Dashboard Acadêmico
+
 <div align="center">
-  
-  **"Em construção 🚧"**
-  
-  *Última atualização: 21 de Agosto de 2025*
-  
-  ⭐ Se este repositório te inspirou, deixe uma estrela!
+
+### 🏆 Progresso Geral do Curso
+
+![Progresso](https://img.shields.io/badge/Progresso-15%25-orange?style=for-the-badge)
+![Período Atual](https://img.shields.io/badge/Período-2°-blue?style=for-the-badge)
+![Disciplinas Concluídas](https://img.shields.io/badge/Concluídas-7-brightgreen?style=for-the-badge)
+![Em Andamento](https://img.shields.io/badge/Em%20Andamento-3-yellow?style=for-the-badge)
+
 </div>
